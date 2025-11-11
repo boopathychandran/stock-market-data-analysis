@@ -55,4 +55,3 @@ Power Query (ETL, cleaning, transformations)
 Excel/CSV (Raw data sources)
 
 👉 This project demonstrates data preparation, modeling, and visualization skills along with the ability to solve real‑world challenges in analytics.
-
